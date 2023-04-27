@@ -1,0 +1,48 @@
+abr. 27, 2023 10:09:22 AM Principal main
+INFORMAÇÕES: Log de informação
+abr. 27, 2023 10:09:22 AM Principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 10:09:22 AM Principal main
+GRAVE: Log Severo
+abr. 27, 2023 10:09:22 AM Principal main
+INFORMAÇÕES: 
+ O programa iniciou a chamada da Calculadora!!
+abr. 27, 2023 10:09:27 AM Principal main
+INFORMAÇÕES: 
+ O programa terminou as operações da calculadora com Resultado=1.0
+abr. 27, 2023 10:38:13 AM Principal main
+INFORMAÇÕES: Log de informação
+abr. 27, 2023 10:38:13 AM Principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 10:38:13 AM Principal main
+GRAVE: Log Severo
+abr. 27, 2023 10:38:13 AM Principal main
+INFORMAÇÕES: 
+ O programa iniciou a chamada da Calculadora!!
+abr. 27, 2023 10:38:21 AM Principal main
+INFORMAÇÕES: 
+ O programa terminou as operações da calculadora com Resultado=0.6666667
+abr. 27, 2023 6:37:31 PM Principal main
+INFORMAÇÕES: Log de informação
+abr. 27, 2023 6:37:31 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 6:37:31 PM Principal main
+GRAVE: Log Severo
+abr. 27, 2023 6:37:31 PM Principal main
+INFORMAÇÕES: 
+ O programa iniciou a chamada da Calculadora!!
+abr. 27, 2023 6:37:45 PM Principal main
+INFORMAÇÕES: 
+ O programa terminou as operações da calculadora com Resultado=6.0
+abr. 27, 2023 8:51:48 PM Principal main
+INFORMAÇÕES: Log de informação
+abr. 27, 2023 8:51:48 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+abr. 27, 2023 8:51:48 PM Principal main
+GRAVE: Log Severo
+abr. 27, 2023 8:51:48 PM Principal main
+INFORMAÇÕES: 
+ O programa iniciou a chamada da Calculadora!!
+abr. 27, 2023 8:52:07 PM Principal main
+INFORMAÇÕES: 
+ O programa terminou as operações da calculadora com Resultado=5.0
